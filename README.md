@@ -1,3 +1,6 @@
+# Hosted Link
+https://manishbittu0999.github.io/FE-Super-Hero-Hunter-Api/
+
 
 # The Superhero Guide
 
@@ -49,5 +52,4 @@ Also User can make specific hero favourite & can see all favourite heroes at one
 - BOOTSTRAP 5 ( css framework )
 ## Author
 
-- [@hishamkhan](https://github.com/hisham8989)
-
+- Manish Gupta
